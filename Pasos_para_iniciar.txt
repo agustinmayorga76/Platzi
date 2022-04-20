@@ -1,0 +1,10 @@
+Acá voy a poner todos los comandos para inciar a programar 
+Luego paara poder subir todo y compara lo q esta en github
+
+#aparece en la clase numero 19 del curso de git y github 
+
+-git pull origin master (me traigo el origen hacia la rama q estoy q es el master)
+
+-git pull origin master --allow-unrelated-histories "hago merge con la rama master y le pongoo q si"
+
+-git push origin master (envío el master local al master de github)
